@@ -1,4 +1,2 @@
-settings
+My Personal Settings
 ========
-
-My Settings
